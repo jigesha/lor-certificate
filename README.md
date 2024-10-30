@@ -1,2 +1,2 @@
 # lor-certificate
-internship
+
